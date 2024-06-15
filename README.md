@@ -1,1 +1,1 @@
-# CryptoPilot Live at: https://crypto-pilot.netlify.app/
+# CryptoPilot Live at: https://cryptopilot-swayam.netlify.app/
